@@ -4,6 +4,16 @@ Video NFT which will upload to Livepeer Network then to IPFS and after this it w
 
 Note : Only you can mint to wallet connected address not to others.
 
+# Team Members
+
+- [Shantanu Bharadwaj](https://github.com/itsshantanu)
+- [Mohit Chandel](https://github.com/mohitchandel)
+- [Karan Goraniya](https://github.com/karangorania)
+
+## ShutterNFT FE Repo
+
+- [ShutterNFT FE ](https://github.com/karangorania/ShutterNFT-FE)
+
 ## Important Step
 
 ```bash
